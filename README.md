@@ -7,6 +7,7 @@ Age: 25 years old
 Brazilian nationality
 
 🎓 Formation: Graduated in Systems Analysis and Development
+
 🎯 Skills: JAVASCRIPT, TYPESCRIPT, NEXTJS, NESTJS, EXPRESSJS, HTML, CSS, SCSS, JQUERY, C#, SQL, SAP, SQL HANA, MONGODB, AZURE, ATLASSIAN, JENKINS, GIT, AWS, TERRAFORM, DOCKER
 
 <br>
@@ -22,4 +23,5 @@ Idade: 25 anos
 Nacionalidade brasileira
 
 🎓 Formação: Graduado em Análise e Desenvolvimento de Sistemas
+
 🎯 Habilidades: JAVASCRIPT, TYPESCRIPT, NEXTJS, NESTJS, EXPRESSJS, TYPEORM, HTML, CSS, SCSS, JQUERY, C#, SQL, SAP, SQL HANA, MONGODB, AZURE, ATLASSIAN, JENKINS, GIT, AWS, TERRAFORM, DOCKER
