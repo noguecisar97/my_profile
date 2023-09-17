@@ -1,4 +1,4 @@
-# This is my profile
+# 🚀 This is my profile
 > i am using vscode for coding
 
 Hi my friend ❤️, my name is Julio Cesar but you can call me Cesar, i really like programming
@@ -9,15 +9,14 @@ Age: 25 years old
 
 Brazilian nationality
 
-🎓 Formation: Graduated in Systems Analysis and Development
+🎓 Formation: Graduated in Systems Analysis and Development 🚀
 
-🎯 Skills: JAVASCRIPT, TYPESCRIPT, NEXTJS, NESTJS, EXPRESSJS, HTML, CSS, SCSS, JQUERY, C#, SQL, SAP, SQL HANA, MONGODB, AZURE, ATLASSIAN, JENKINS, GIT, AWS, TERRAFORM, DOCKER
+🎯 Skills: JAVASCRIPT, TYPESCRIPT, NEXTJS, NESTJS, REACT NATIVE, EXPRESSJS, HTML, CSS, SCSS, JQUERY, C#, SQL, SAP, SQL HANA, MONGODB, AZURE, ATLASSIAN, JENKINS, GIT, AWS, TERRAFORM, DOCKER
 
 <br>
 <br>
-<br>
 
-# Este é o meu perfil
+# 🚀 Este é o meu perfil
 > estou usando vscode para codificação
 
 Oi meu amigo ❤️, meu nome é Julio Cesar mas pode me chamar de Cesar, gosto muito de programar
@@ -28,6 +27,6 @@ Idade: 25 anos
 
 Nacionalidade brasileira
 
-🎓 Formação: Graduado em Análise e Desenvolvimento de Sistemas
+🎓 Formação: Graduado em Análise e Desenvolvimento de Sistemas 🚀
 
-🎯 Habilidades: JAVASCRIPT, TYPESCRIPT, NEXTJS, NESTJS, EXPRESSJS, TYPEORM, HTML, CSS, SCSS, JQUERY, C#, SQL, SAP, SQL HANA, MONGODB, AZURE, ATLASSIAN, JENKINS, GIT, AWS, TERRAFORM, DOCKER
+🎯 Habilidades: JAVASCRIPT, TYPESCRIPT, NEXTJS, NESTJS, REACT NATIVE, EXPRESSJS, TYPEORM, HTML, CSS, SCSS, JQUERY, C#, SQL, SAP, SQL HANA, MONGODB, AZURE, ATLASSIAN, JENKINS, GIT, AWS, TERRAFORM, DOCKER
